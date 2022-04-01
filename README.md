@@ -3,7 +3,7 @@ Apache foundation software is one way recruiters will be hitting your dms on lin
 
 
 
-#Apache Spark
+Apache Spark
 ---
 
 https://sparkbyexamples.com/pyspark/what-is-pyspark-and-who-uses-it/
